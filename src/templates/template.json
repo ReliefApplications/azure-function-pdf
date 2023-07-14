@@ -1,0 +1,39 @@
+{
+  "pageSize": "A4",
+  "pageOrientation": "portrait",
+  "content": [
+    {
+      "text": "This is a title",
+      "fontSize": 27,
+      "color": "#707070",
+      "margin": [0, 16],
+      "style": "page"
+    },
+    {
+      "text": "This is a subtitle",
+      "fontSize": 15,
+      "color": "#707070",
+      "margin": [0, 32, 0, 4],
+      "style": "page"
+    },
+    {
+      "text": "{vendor_name}",
+      "fontSize": 15,
+      "bold": true,
+      "style": "page"
+    },
+    {
+      "text": "{vendor_street}",
+      "fontSize": 15,
+      "style": "page"
+    },
+    {
+      "text": "{vendor_zip_city}",
+      "fontSize": 15,
+      "style": "page"
+    }
+  ],
+  "defaultStyle": {
+    "font": "Helvetica"
+  }
+}
