@@ -7,3 +7,6 @@ You can also find some information there to learn how to work with .js Azure fun
 https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-node?pivots=nodejs-model-v4
 https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-node?tabs=javascript%2Cwindows%2Cazure-cli&pivots=nodejs-model-v4
 https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs-code?tabs=nodejs
+
+In case the functions are not executing, check in the file local.settings.json that  you have this value set:
+```"Values"."AzureWebJobsFeatureFlags": "EnableWorkerIndexing"```
