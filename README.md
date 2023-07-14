@@ -6,4 +6,4 @@ https://medium.com/medialesson/create-a-pdf-from-a-template-serverless-style-usi
 You can also find some information there to learn how to work with .js Azure functions:
 https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-node?pivots=nodejs-model-v4
 https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-node?tabs=javascript%2Cwindows%2Cazure-cli&pivots=nodejs-model-v4
-https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-local
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs-code?tabs=nodejs
